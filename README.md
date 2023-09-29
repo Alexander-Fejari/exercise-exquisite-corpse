@@ -25,3 +25,10 @@ Lola passe des jours enchantés à déguster les mets magiques du restaurant sec
 Lola étais déjà passé par ici...
 elle ferme les yeux,
 tend l'oreille.
+
+"Le soleil brillait dans le ciel, répandant sa douce chaleur sur la ville endormie. Les oiseaux gazouillaient joyeusement, annonçant l'arrivée d'une nouvelle journée. Les rues étaient calmes, baignées dans une tranquillité apaisante."
+
+
+
+
+
