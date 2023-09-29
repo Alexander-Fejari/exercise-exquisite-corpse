@@ -13,3 +13,5 @@ Après des jours de marche Lola parviens enfin à retrouver les décors sur sa c
 
 Lola sort un petit bloc note de sa poche et y écrit la commande et lui demanda ensuite :  
 > La sauce à part ou sur les frites ?
+
+La voix dans la forêt répond : "Sur les frites, s'il te plaît." Intriguée par cette réponse étrange, Lola suit la voix et découvre un petit restaurant caché au cœur de la forêt, tenu par un cuisinier mystérieux. Elle décide de s'asseoir pour manger et en apprendre plus sur cet endroit inhabituel.
