@@ -21,3 +21,7 @@ La voix dans la forêt répond : "Sur les frites, s'il te plaît." Intriguée pa
 À l'intérieur du restaurant, Lola découvre que chaque plat est une aventure culinaire unique, concoctée avec des ingrédients magiques de la forêt. Le cuisinier lui raconte l'histoire de cet endroit enchanté, où les souhaits se transforment en saveurs délicieuses. Fascinée, Lola décide de rester un moment pour explorer davantage ce monde de gourmandises mystiques.
 
 Lola passe des jours enchantés à déguster les mets magiques du restaurant secret au cœur de la forêt. Elle se lie d'amitié avec le cuisinier mystérieux et découvre que la croix rouge sur la carte de sa grand-mère était en réalité un symbole indiquant l'emplacement de ce lieu extraordinaire. Tandis que les saisons changent et que le temps s'écoule différemment dans cet endroit magique, Lola se prépare à vivre de nouvelles aventures et à percer les secrets de la forêt enchantée.
+
+Lola étais déjà passé par ici...
+elle ferme les yeux,
+tend l'oreille.
