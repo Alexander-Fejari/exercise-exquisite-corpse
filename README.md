@@ -5,4 +5,10 @@ Lola a trouvé une vieille carte au fond du grenier de sa grand-mère. La carte 
 
 > blockquote A ton tour de trouver la suite ...
 
+<<<<<<< HEAD
 Après des jours de marche Lola parviens enfin à retrouver les décors sur sa carte. Enfoncée dans la forêt elle entendit au loin une voie lui parler. Elle s'approcha et tendit l'oreille. (thomas)
+=======
+> Un kebab salade tout viande mixte
+> Des vieilles baskets
+> Trois petits pois
+>>>>>>> julia-michel
