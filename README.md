@@ -15,3 +15,5 @@ Lola sort un petit bloc note de sa poche et y écrit la commande et lui demanda 
 > La sauce à part ou sur les frites ?
 
 La voix dans la forêt répond : "Sur les frites, s'il te plaît." Intriguée par cette réponse étrange, Lola suit la voix et découvre un petit restaurant caché au cœur de la forêt, tenu par un cuisinier mystérieux. Elle décide de s'asseoir pour manger et en apprendre plus sur cet endroit inhabituel.
+
+À l'intérieur du restaurant, Lola découvre que chaque plat est une aventure culinaire unique, concoctée avec des ingrédients magiques de la forêt. Le cuisinier lui raconte l'histoire de cet endroit enchanté, où les souhaits se transforment en saveurs délicieuses. Fascinée, Lola décide de rester un moment pour explorer davantage ce monde de gourmandises mystiques.
